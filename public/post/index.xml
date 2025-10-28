@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language>
+      <lastBuildDate>Tue, 28 Oct 2025 14:06:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philips Internship 1st time</title>
+      <link>http://localhost:1313/post/philips-internship-1/</link>
+      <pubDate>Tue, 28 Oct 2025 14:06:00 +0100</pubDate>
+
+      <guid>http://localhost:1313/post/philips-internship-1/</guid>
+      <description>&lt;h1 id=&#34;my-first-internship-at-philips&#34;&gt;
+  My First Internship at Philips
+  &lt;a href=&#34;#my-first-internship-at-philips&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;During my second year at &lt;strong&gt;SintLucas Creative Technology&lt;/strong&gt;, I had the opportunity to join Philips for my first internship. My goal was to orient myself and explore potential career paths in the tech industry.&lt;/p&gt;
+
+&lt;h2 id=&#34;front-end-for-ultrasonic-device&#34;&gt;
+  Front-End for Ultrasonic Device
+  &lt;a href=&#34;#front-end-for-ultrasonic-device&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;At Philips, I contributed to the development of a front-end interface for an ultrasonic medical device. My work focused on creating an interactive demonstration that guided users on how to position the device for optimal contact with patients, enhancing both usability and effectiveness.&lt;/p&gt;</description>
+      <content>
+&lt;h1 id=&#34;my-first-internship-at-philips&#34;&gt;
+  My First Internship at Philips
+  &lt;a href=&#34;#my-first-internship-at-philips&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;During my second year at &lt;strong&gt;SintLucas Creative Technology&lt;/strong&gt;, I had the opportunity to join Philips for my first internship. My goal was to orient myself and explore potential career paths in the tech industry.&lt;/p&gt;
+
+&lt;h2 id=&#34;front-end-for-ultrasonic-device&#34;&gt;
+  Front-End for Ultrasonic Device
+  &lt;a href=&#34;#front-end-for-ultrasonic-device&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;At Philips, I contributed to the development of a front-end interface for an ultrasonic medical device. My work focused on creating an interactive demonstration that guided users on how to position the device for optimal contact with patients, enhancing both usability and effectiveness.&lt;/p&gt;
+
+&lt;h2 id=&#34;captain-planet-game&#34;&gt;
+  Captain Planet Game
+  &lt;a href=&#34;#captain-planet-game&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Additionally, I collaborated with another intern on a project called &lt;strong&gt;Captain Planet&lt;/strong&gt;—a game designed to encourage environmental responsibility. My role involved designing several 3D assets, including various representations of Earth in different ecological states, such as a planet affected by global warming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This experience allowed me to combine my creative and technical skills while working on projects with real-world impact.&lt;/p&gt;
+</content>
+    </item>
+    <item>
+      <title>Philips Internship 2nd time</title>
+      <link>http://localhost:1313/post/philips-internship-2/</link>
+      <pubDate>Tue, 28 Oct 2025 14:06:00 +0100</pubDate>
+
+      <guid>http://localhost:1313/post/philips-internship-2/</guid>
+      <description>&lt;h1 id=&#34;my-second-internship-at-philips&#34;&gt;
+  My Second Internship at Philips
+  &lt;a href=&#34;#my-second-internship-at-philips&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;For my second internship at Philips, I developed a migration tool to export users from a legacy system to a new, scalable platform.&lt;/p&gt;
+
+&lt;h2 id=&#34;migrating-users-to-a-serverless-aws-application&#34;&gt;
+  Migrating Users to a Serverless AWS Application
+  &lt;a href=&#34;#migrating-users-to-a-serverless-aws-application&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The original system was a monolithic full stack application, created by researchers to test a product. As the product needed to scale to support a much larger audience (approximately 1 million users), the application was rebuilt in AWS as a serverless solution.&lt;/p&gt;</description>
+      <content>
+&lt;h1 id=&#34;my-second-internship-at-philips&#34;&gt;
+  My Second Internship at Philips
+  &lt;a href=&#34;#my-second-internship-at-philips&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;For my second internship at Philips, I developed a migration tool to export users from a legacy system to a new, scalable platform.&lt;/p&gt;
+
+&lt;h2 id=&#34;migrating-users-to-a-serverless-aws-application&#34;&gt;
+  Migrating Users to a Serverless AWS Application
+  &lt;a href=&#34;#migrating-users-to-a-serverless-aws-application&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The original system was a monolithic full stack application, created by researchers to test a product. As the product needed to scale to support a much larger audience (approximately 1 million users), the application was rebuilt in AWS as a serverless solution.&lt;/p&gt;
+&lt;p&gt;The legacy application contained a few hundred users who needed to be migrated to the new system. To accomplish this, I created a migration script that transferred all user data efficiently and reliably.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-and-achievements&#34;&gt;
+  Learning and Achievements
+  &lt;a href=&#34;#learning-and-achievements&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;During this internship, I gained valuable experience working with AWS services such as &lt;strong&gt;DynamoDB&lt;/strong&gt; and &lt;strong&gt;CloudFront&lt;/strong&gt;. The migration script successfully transferred every user, and the team was very satisfied with the results.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This project helped me deepen my understanding of cloud infrastructure and large-scale application migration.&lt;/p&gt;
+</content>
+    </item>
+    <item>
+      <title>Philips Internship 2nd time</title>
+      <link>http://localhost:1313/post/philips-internship-3/</link>
+      <pubDate>Tue, 28 Oct 2025 14:06:00 +0100</pubDate>
+
+      <guid>http://localhost:1313/post/philips-internship-3/</guid>
+      <description></description>
+      <content></content>
+    </item>
+  </channel>
+</rss>
